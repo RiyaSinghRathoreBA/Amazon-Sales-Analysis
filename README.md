@@ -1,4 +1,5 @@
 # Amazon Sales Analysis
+### Dashboard link: https://app.powerbi.com/view?r=eyJrIjoiOGY0OGQ5M2QtYmM0YS00OGI0LWExNjYtN2EzZmIyOTQ5ODMyIiwidCI6ImM1MThkMTc4LTY3OTctNGJhMi04Y2M0LTY5OWI3MDdhM2QyZSJ9
 
 ## Project Overview
 The **Amazon Sales Analysis** project focuses on leveraging sales data to identify key trends, evaluate product performance, and generate actionable insights. This was achieved through the development of an interactive Power BI dashboard, offering a comprehensive view of the sales landscape across regions, products, and customer segments.
@@ -106,6 +107,16 @@ Documented findings, methodology, and recommendations in:
 ![Image](https://github.com/user-attachments/assets/e3b714a2-4847-4992-b362-821f6b1983cc)
 
 ## 2. Products
+![Image](https://github.com/user-attachments/assets/0e6893bc-d7a0-4eee-8302-c0263eebb9cc)
+### Product Categories with Tooltips
+![Image](https://github.com/user-attachments/assets/67dd3780-166e-4961-a736-aad9368eab0c)
+
+## 3. Product View
+![Image](https://github.com/user-attachments/assets/3f19121a-d1bc-4c2a-b351-0c960e1f8fe1)
+
+## 4. Product Tooltip
+![Image](https://github.com/user-attachments/assets/92d58002-bbdc-40dd-b344-11d25b3c44f7)
+
 
 
 For any questions or additional details, feel free to contact **Riya Singh Rathore**.
