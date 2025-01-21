@@ -1,5 +1,5 @@
 # Amazon Sales Analysis
-### Dashboard link: https://app.powerbi.com/view?r=eyJrIjoiOGY0OGQ5M2QtYmM0YS00OGI0LWExNjYtN2EzZmIyOTQ5ODMyIiwidCI6ImM1MThkMTc4LTY3OTctNGJhMi04Y2M0LTY5OWI3MDdhM2QyZSJ9
+##### Dashboard link: https://app.powerbi.com/view?r=eyJrIjoiOGY0OGQ5M2QtYmM0YS00OGI0LWExNjYtN2EzZmIyOTQ5ODMyIiwidCI6ImM1MThkMTc4LTY3OTctNGJhMi04Y2M0LTY5OWI3MDdhM2QyZSJ9
 
 ## Project Overview
 The **Amazon Sales Analysis** project focuses on leveraging sales data to identify key trends, evaluate product performance, and generate actionable insights. This was achieved through the development of an interactive Power BI dashboard, offering a comprehensive view of the sales landscape across regions, products, and customer segments.
