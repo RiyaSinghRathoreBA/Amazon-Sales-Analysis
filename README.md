@@ -101,6 +101,11 @@ Documented findings, methodology, and recommendations in:
 4. Review insights and recommendations provided in the documentation.
 
 ---
+# Here's the preview of Dashboard
+## 1. Overview
+![Image](https://github.com/user-attachments/assets/e3b714a2-4847-4992-b362-821f6b1983cc)
+
+## 2. Products
 
 
 For any questions or additional details, feel free to contact **Riya Singh Rathore**.
